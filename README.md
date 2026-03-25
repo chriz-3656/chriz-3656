@@ -117,8 +117,8 @@ Founder of **Sky Tech & Crafts** — a Discord-based technical community focused
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrizmonsaji&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrizmonsaji&layout=compact&theme=dark&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chriz-3656&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriz-3656&layout=compact&theme=dark&langs_count=6" />
 </div>
 
 ---
@@ -148,7 +148,7 @@ Founder of **Sky Tech & Crafts** — a Discord-based technical community focused
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chrizmonsaji&color=green&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=chriz-3656&color=green&style=flat" alt="Profile views" />
 </div>
 
 💡 *Building with purpose. Learning in public. Securing by design.*  
