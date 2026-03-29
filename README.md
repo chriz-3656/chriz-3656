@@ -1,3 +1,8 @@
+<!-- Typing Animation (clean + subtle) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=Chriz+%7C+Cybersecurity+Student;Linux+%7C+Automation+%7C+AI;Building+and+Learning+Everyday" />
+</p>
+
 # 👋 Hey, I'm Chriz
 
 ### Cybersecurity Student | Linux Enthusiast | Developer
@@ -58,6 +63,15 @@ A simple offline-first web app for students.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chriz-3656&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriz-3656&layout=compact&theme=dark&hide_border=true" height="170" />
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 **Languages:**  
@@ -88,6 +102,14 @@ LinkedIn: https://www.linkedin.com/in/chrismonsaji
 Instagram: https://instagram.com/chriz__3656  
 Reddit: https://reddit.com/user/chriz__3656  
 Threads: https://threads.net/@chriz__3656  
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chriz-3656&color=green&style=flat" />
+</p>
 
 ---
 
