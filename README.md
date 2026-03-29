@@ -66,8 +66,7 @@ A simple offline-first web app for students.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chriz-3656&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriz-3656&layout=compact&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chriz-3656&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" />
 </p>
 
 ---
