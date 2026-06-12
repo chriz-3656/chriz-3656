@@ -200,6 +200,16 @@ A simple offline-first web app for students.
 
 ---
 
+## 🎵 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31uphm6cgosibg5ugd7ooi55p26a&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uphm6cgosibg5ugd7ooi55p26a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=00ff00" alt="Spotify Now Playing">
+  </a>
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
