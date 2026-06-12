@@ -10,6 +10,8 @@
 Also known as **chriz3656 / chriz__3656 / chriz-3656**  
 Real Name: **Chris Mon Saji**
 
+🟢 **Active now**
+
 ---
 
 ## 🧠 About Me
@@ -39,24 +41,39 @@ I don’t just learn theory — I build and test everything practically.
 
 ## 🏰 Projects & Community
 
-### 🌍 Sky Realm SMP
-A Minecraft survival multiplayer (SMP) server and community built by me.
+### 🌍 Sky Realms SMP
+A Minecraft Bedrock Edition survival multiplayer (SMP) server and modding community built by me.
 
 - Custom systems  
 - Player-focused gameplay  
 - Ongoing development  
 
-🔗 https://skyrealm.fun
+🔗 https://skyrealm.fun | Discord: https://discord.gg/d2NDkmbYPp
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### 🔐 Recent Security Tools
+- **[ReconAssistant](https://github.com/chriz-3656/ReconAssistant)** - Python-based reconnaissance tool
+- **[CHRIZ-AI-Platform](https://github.com/chriz-3656/CHRIZ-AI-Platform)** - AI-powered platform
+- **[VPS-CTRL](https://github.com/chriz-3656/VPS-CTRL)** - VPS control interface
+
+### 🔧 Security & Analysis Tools
+- `AD-analyzer` | `GHOSTRACE` | `LENSTrace` | `NEXUSTrace` | `CHATTrace`
+- `ATtiny85-USB-Brute-Force-PIN` - Hardware PIN brute-force tool
+- `wifi-exfil-tool` - Wi-Fi data exfiltration tool
+
+### 🎮 Fun Projects
+- `TiltGuard` | `tiltmaze` - Tilt-based physics projects
+- `InstaBot` | `skycasino-bot` | `VarthaBot` - Automation bots
+- `SkyMusic` | `streamflix` - Media tools
+- `C-player` - Music player
 
 ### 📅 Timetable PWA  
 https://timetable-6zd.pages.dev/
 
 A simple offline-first web app for students.
-
 - Works without internet after loading  
 - Lightweight and installable  
 - Built using HTML, CSS, JavaScript  
@@ -74,13 +91,13 @@ A simple offline-first web app for students.
 ## 🧰 Tech Stack
 
 **Languages:**  
-Python, JavaScript, Bash, HTML, CSS  
+Python, JavaScript, Bash, HTML, CSS, C, C++
 
 **Tools & Platforms:**  
-Linux, Node.js, Cloudflare Pages, Oracle Cloud, AWS  
+Linux, Node.js, Cloudflare Pages, Oracle Cloud, AWS, Arduino (ATtiny85)
 
 **Security Learning:**  
-Networking, basic pentesting labs, system security, forensics tools  
+Networking, basic pentesting labs, system security, forensics tools, reconnaissance, exfiltration techniques
 
 ---
 
@@ -91,6 +108,7 @@ Networking, basic pentesting labs, system security, forensics tools
 - Linux System Internals  
 - Cloud Security (AWS / OCI)  
 - Web App Development  
+- Hardware Security (Embedded systems)
 
 ---
 
@@ -101,6 +119,7 @@ LinkedIn: https://www.linkedin.com/in/chrismonsaji
 Instagram: https://instagram.com/chriz__3656  
 Reddit: https://reddit.com/user/chriz__3656  
 Threads: https://threads.net/@chriz__3656  
+Discord: https://discord.gg/d2NDkmbYPp
 
 ---
 
