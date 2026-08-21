@@ -63,10 +63,10 @@ class Chriz:
 ## ⚙️ What I Work On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity%20Labs-00FF00?style=flat-square&logo=security&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Cybersecurity%20Labs-00FF00?style=flat-square&logo=kalilinux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Linux%20Tools-00FF00?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Web%20Apps-00FF00?style=flat-square&logo=web&logoColor=black" />
-  <img src="https://img.shields.io/badge/-AI%20Workflows-00FF00?style=flat-square&logo=artificial-intelligence&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Web%20Apps-00FF00?style=flat-square&logo=w3c&logoColor=black" />
+  <img src="https://img.shields.io/badge/-AI%20Workflows-00FF00?style=flat-square&logo=openai&logoColor=black" />
   <img src="https://img.shields.io/badge/-Minecraft%20Servers-00FF00?style=flat-square&logo=minecraft&logoColor=black" />
 </p>
 
@@ -152,6 +152,8 @@ A simple offline-first web app for students.
 
 ## 📊 GitHub Stats
 
+> **Note:** Some GitHub stat cards (like `github-readme-stats` and `github-profile-trophy`) may occasionally fail to load because their public Vercel instances often hit usage limits or get paused by the host. 
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chriz-3656&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chriz-3656&theme=dark&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
@@ -190,12 +192,12 @@ A simple offline-first web app for students.
 ## 📈 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Cybersecurity%20%26%20Ethical%20Hacking-00FF00?style=flat-square&logo=security" />
-  <img src="https://img.shields.io/badge/-Digital%20Forensics-00FF00?style=flat-square&logo=forensics" />
-  <img src="https://img.shields.io/badge/-Linux%20System%20Internals-00FF00?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/-Cloud%20Security-00FF00?style=flat-square&logo=cloud" />
-  <img src="https://img.shields.io/badge/-Web%20App%20Development-00FF00?style=flat-square&logo=web" />
-  <img src="https://img.shields.io/badge/-Hardware%20Security-00FF00?style=flat-square&logo=hardware" />
+  <img src="https://img.shields.io/badge/-Cybersecurity%20%26%20Ethical%20Hacking-00FF00?style=flat-square&logo=kalilinux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Digital%20Forensics-00FF00?style=flat-square&logo=wireshark&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Linux%20System%20Internals-00FF00?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Cloud%20Security-00FF00?style=flat-square&logo=cloudflare&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Web%20App%20Development-00FF00?style=flat-square&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Hardware%20Security-00FF00?style=flat-square&logo=arduino&logoColor=black" />
 </p>
 
 ---
